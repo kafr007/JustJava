@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xcliff="http://schemas.android.com/tools">
+    <string name="app_name">JustJava</string>
+    <string name="name_hint">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whippedcream">Whippedcream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="initial_value">2</string>
+    <string name="order_summery">Order summery</string>
+    <string name="price">0 HUF</string>
+    <string name="order">Order</string>
+    <string name="user_name">Name: <xcliff:g id="user_name" example="Franciska">%s</xcliff:g></string>
+    <string name="add_whippedcream">"Add whipped cream? "</string>
+    <string name="add_chocolate">"Add chocolate? "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="email_subject">JustJava order for <xcliff:g id="user_name" example="Franciska">%s</xcliff:g></string>
+    <string name="thank_you">Thank you for your order!</string>
+    <string name="ft">" HUF"</string>
+    <string name="sum">"Total: "</string>
+    <string name="quantity1">"Quantity: "</string>
+</resources>

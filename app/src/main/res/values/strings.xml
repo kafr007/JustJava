@@ -1,0 +1,28 @@
+<resources xmlns:xcliff="http://schemas.android.com/tools">
+    <string name="app_name">JustJava</string>
+    <string name="name_hint">Név</string>
+    <string name="toppings">Feltétek</string>
+<string name="whippedcream">Tejszínhab</string>
+    <string name="chocolate">Csokoládé</string>
+    <string name="quantity">Mennyiség</string>
+    <string name="initial_value">2</string>
+    <string name="order_summery">Rendelési összesítő</string>
+    <string name="price">0 Ft</string>
+    <string name="order">Rendelés</string>
+
+    <string name="user_name">Név: <xcliff:g id="user_name" example="Franciska">%s</xcliff:g></string>
+    <string name="add_whippedcream">Kér tejszínhabot? </string>
+    <string name="add_chocolate">Kér csokoládét? </string>
+     <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="quantity1">Mennyiség: </string>
+    <string name="sum">Összesen: </string>
+    <string name="ft"> Ft</string>
+    <string name="thank_you">Köszönjük a rendelést!</string>
+
+    <string name="email_subject">JustJava rendelés: <xcliff:g id="user_name" example="Franciska">%s</xcliff:g></string>
+
+
+
+
+</resources>
